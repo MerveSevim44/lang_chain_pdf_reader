@@ -1,0 +1,19 @@
+# LangChain
+langchain==0.3.25
+langchain-groq==0.3.2
+langchain-core==0.3.55
+langchain-community==0.3.23
+langchain-huggingface==0.1.2
+
+# PDF & Vektör
+pymupdf==1.25.5 # 
+faiss-cpu==1.10.0
+sentence-transformers==4.1.0
+
+# Backend
+fastapi==0.115.12
+uvicorn==0.34.0
+python-multipart==0.0.20
+
+# Yardımcı
+python-dotenv==1.1.0
